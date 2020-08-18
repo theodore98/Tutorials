@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Stringmsg">ENTER TWO NUMBERS</string>
+    <string name="to">To</string>
+</resources>
